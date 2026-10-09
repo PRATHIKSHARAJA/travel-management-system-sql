@@ -45,7 +45,7 @@ Include the concepts actually used in your scripts, such as:
 
 ## Images
 
-*
+*[Payment table.png](Payment table.png)
 *
 
 ## Results
