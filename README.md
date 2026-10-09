@@ -43,20 +43,10 @@ Include the concepts actually used in your scripts, such as:
 * How many bookings were cancelled?
 * How many people are included in each booking?
 
-## Repository Structure
+## Images
 
-* `sql/create_tables.sql` — database schema
-* `sql/insert_sample_data.sql` — sample records, if available
-* `sql/analysis_queries.sql` — analytical queries
-* `images/` — schema diagram or query screenshots
-
-## How to Run
-
-1. Install or open a SQL database system compatible with your scripts.
-2. Create the database and run the table creation script.
-3. Load the sample data, if included.
-4. Run the analytical queries.
-5. Review the query outputs.
+*
+*
 
 ## Results
 
